@@ -1,0 +1,22 @@
+
+css
+
+h1{
+    color: blue;
+    background-color: yellow;
+}
+
+h2
+{
+ color:  green;
+}
+
+div{
+    background-color: yellow;
+    color: green;
+}
+/* div class bg*/
+.bg{
+background-color: cyan;
+color: red;
+}
